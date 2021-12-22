@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277833681898",
+    "firebase_url": "https://grocery-dad33-default-rtdb.firebaseio.com",
+    "project_id": "grocery-dad33",
+    "storage_bucket": "grocery-dad33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277833681898:android:36b0b28119a77c1bcec093",
+        "android_client_info": {
+          "package_name": "com.example.myapp20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277833681898-3emoi7hqi250r70rp5rll3fkhj3rsrbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHJS_4V-tw5Y0EJYcgLUiNj2PAdwVU1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277833681898-3emoi7hqi250r70rp5rll3fkhj3rsrbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
